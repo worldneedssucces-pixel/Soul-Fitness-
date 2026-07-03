@@ -1,0 +1,6 @@
+{
+  "name": "Soul Fitness Gym",
+  "description": "Attractive and interactive website for Soul Fitness Gym in Gulberg Town, Karachi, featuring facility tours, reviews, interactive booking, free trials, and direct WhatsApp contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
